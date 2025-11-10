@@ -63,3 +63,8 @@ cdk.out/
 # Any notebook or HTML whose name ends with _solution
 
 *_solution.html
+
+
+#images
+*.jpg
+*.png
