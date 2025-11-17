@@ -25,11 +25,11 @@ sentence-transformers = "^5.1.0"
 pandas = "^2.3.2"
 pyarrow = "^22.0.0"
 pytest = "^8.4.2"
-tensorflow-macos = "2.16.1"
 tensorflow-metal = "1.1.0"
 keras = "3.3.3"
 torchvision = "^0.24.0"
 torchaudio = "^2.9.0"
+numpy = "<2.0.0"
 
 
 [build-system]

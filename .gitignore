@@ -68,3 +68,4 @@ cdk.out/
 #images
 *.jpg
 *.png
+*student/hw2/models/*
